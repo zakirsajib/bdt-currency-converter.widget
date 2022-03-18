@@ -1,0 +1,2 @@
+# bdt-currency-converter.widget
+ 
